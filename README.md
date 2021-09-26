@@ -1,6 +1,6 @@
 # ZoomButtons
 
-Zoom Buttons es una caja de controles para facilitar el uso de Zoom.
+Zoom Buttons es una caja de controles para facilitar el uso de Zoom durante las Videoconferencias.
 
 Se proveen 3 botones para Zoom:
   - Alt+A: Mute/unmute
