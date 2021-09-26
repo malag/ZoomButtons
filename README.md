@@ -17,7 +17,7 @@ Se pueden extender facilmente las funcionalidades y añadir más botones.
 Se sugiere el uso de Arduino Leonardo o placas que incorporan los procesadores ATMEGA 32u4 (Micro, Leonardo) o SAMD (Zero, Due, MKR), debido a que se utiliza la librería https://github.com/NicoHood/HID HID (Human Interface Device) y no es compatible con el modelo UNO de manera nativa.
 
 
-### Componentes 📋
+## Componentes 📋
 
 *5 push buttons
 *1 led
