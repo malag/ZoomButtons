@@ -19,12 +19,12 @@ Se sugiere el uso de Arduino Leonardo o placas que incorporan los procesadores A
 
 ### Componentes 📋
 
-5 push buttons
-1 led
-1 resistencia 330Ω
-1 Placa Arduino Leonarlo (o equivalente)
-1 Caja para montar todo.
-Soldadura, pasta para soldar y cables.
+*5 push buttons
+*1 led
+*1 resistencia 330Ω
+*1 Placa Arduino Leonarlo (o equivalente)
+*1 Caja para montar todo.
+*Soldadura, pasta para soldar y cables.
 
 ## Comenzando 🚀
 
